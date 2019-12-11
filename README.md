@@ -12,7 +12,7 @@ To be updated
 
 ## Usage:
 ### Requirement:
-Tensorflow 1.4 Or Tensorflow 1.8
+Tensorflow 1.4 (1.8)
 Python 3.5
 
 ### Preprocessing:
