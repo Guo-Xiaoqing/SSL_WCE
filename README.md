@@ -25,6 +25,8 @@ cd SSL_WCE
 
 * "make_tfrecords.py" is used to make tfrecord format data, which could be stored in folder "./tfrecord/".
 
+* Note that we implemented data augmentation before training and then used the augmented dataset for training in this paper. However, it may be inconvenient for you. Therefore, to avoid additional data augmentation before training, online data augmentations, including random flips and rotations, are added in script "utilsForTF.py". 
+
 * WarpDisc2Square.m is the Matlab code for data preprocessing
 ![](https://github.com/Guo-Xiaoqing/SSL_WCE/raw/master/Figs/preprocess.png)
 
