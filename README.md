@@ -5,7 +5,7 @@ by [Xiaoqing Guo](https://guo-xiaoqing.github.io/), [Yixuan Yuan](http://www.ee.
 ## Summary:
 
 ### Intoduction:
-This repository is for our MIA 2020 paper ["Semi-supervised WCE Image Classification with Adaptive Aggregated Attentio"](https://)
+This repository is for our MIA 2020 paper ["Semi-supervised WCE Image Classification with Adaptive Aggregated Attention"](https://)
 
 ### Framework:
 ![](https://github.com/Guo-Xiaoqing/SSL_WCE/raw/master/Figs/network.png)
