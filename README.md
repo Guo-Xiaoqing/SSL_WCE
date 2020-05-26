@@ -5,10 +5,10 @@ by [Xiaoqing Guo](https://guo-xiaoqing.github.io/), [Yixuan Yuan](http://www.ee.
 ## Summary:
 
 ### Intoduction:
-This repository is for our MIA 2020 paper "Semi-supervised WCE Image Classification with Adaptive Aggregated Attention "
+This repository is for our MIA 2020 paper ["Semi-supervised WCE Image Classification with Adaptive Aggregated Attentio"](https://)
 
 ### Framework:
-To be updated
+![](https://github.com/Guo-Xiaoqing/SSL_WCE/raw/master/Figs/network.png)
 
 ## Usage:
 ### Requirement:
@@ -22,10 +22,11 @@ git clone https://github.com/Guo-Xiaoqing/SSL_WCE.git
 cd SSL_WCE 
 ```
 Use "make_txt.py" to split training data and testing data. The generated txt files are showed in folder "./txt/".
+
 "make_tfrecords.py" is used to make tfrecord format data, which could be stored in folder "./tfrecord/".
 
 WarpDisc2Square.m is the Matlab code for data preprocessing
-
+![](https://github.com/Guo-Xiaoqing/SSL_WCE/raw/master/Figs/preprocess.png)
 
 ### Train the model: 
 ```
@@ -38,10 +39,7 @@ sh ./script/evaluation_SSL_WCE.sh
 ```
 
 ### Well trained model:
-You could download the trained SSL_WCE (TensorFlow) from [Google Drive](https://drive.google.com/file/d/1j-Q_u0-Xyp2xYjA55d8zsV1mM9DE2DRc/view?usp=sharing). Put the model in directory './models'.
-
-## Results:
-To be updated
+You could download the trained SSL_WCE model from [Google Drive](https://drive.google.com/file/d/1j-Q_u0-Xyp2xYjA55d8zsV1mM9DE2DRc/view?usp=sharing). Put the model in directory './models'.
 
 ## Citation:
 To be updated
