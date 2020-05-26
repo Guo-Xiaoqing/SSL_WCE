@@ -41,6 +41,11 @@ sh ./script/evaluation_SSL_WCE.sh
 ### Well trained model:
 You could download the trained SSL_WCE model from [Google Drive](https://drive.google.com/file/d/1j-Q_u0-Xyp2xYjA55d8zsV1mM9DE2DRc/view?usp=sharing). Put the model in directory './models'.
 
+### Results:
+Attention maps and inputs of the second branch derived from validation samples are shown in [Results](https://github.com/Guo-Xiaoqing/SSL_WCE/model/attention_map/)
+
+Log files recorded using tensorflow 1.4 and 1.8 are listed in [Logs](https://github.com/Guo-Xiaoqing/SSL_WCE/model/logs/), which report the running time, loss and accuracy during training phase.
+
 ## Citation:
 To be updated
 
