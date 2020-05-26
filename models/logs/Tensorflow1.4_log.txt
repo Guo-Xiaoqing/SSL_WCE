@@ -1,0 +1,95 @@
+Epoch:[ 1][  0/337] time:186.25,net0_loss = 44.008, net0_acc = 0.469, net0_test_acc = 0.281,    net1_loss = 41.989, net1_acc = 0.344, net1_test_acc = 0.375
+Epoch:[ 2][  0/337] time:1396.52,net0_loss = 12.213, net0_acc = 0.594, net0_test_acc = 0.438,    net1_loss = 12.143, net1_acc = 0.406, net1_test_acc = 0.312
+Epoch:[ 3][  0/337] time:2623.80,net0_loss = 11.628, net0_acc = 0.625, net0_test_acc = 0.438,    net1_loss = 11.889, net1_acc = 0.719, net1_test_acc = 0.531
+Epoch:[ 4][  0/337] time:3829.20,net0_loss = 9.836, net0_acc = 0.719, net0_test_acc = 0.562,    net1_loss = 11.188, net1_acc = 0.594, net1_test_acc = 0.500
+Epoch:[ 5][  0/337] time:5055.10,net0_loss = 7.704, net0_acc = 0.781, net0_test_acc = 0.688,    net1_loss = 8.704, net1_acc = 0.719, net1_test_acc = 0.688
+Epoch:[ 6][  0/337] time:6262.05,net0_loss = 8.652, net0_acc = 0.750, net0_test_acc = 0.688,    net1_loss = 7.109, net1_acc = 0.906, net1_test_acc = 0.500
+Epoch:[ 7][  0/337] time:7490.84,net0_loss = 5.749, net0_acc = 0.875, net0_test_acc = 0.750,    net1_loss = 4.871, net1_acc = 0.938, net1_test_acc = 0.688
+Epoch:[ 8][  0/337] time:8695.09,net0_loss = 7.933, net0_acc = 0.750, net0_test_acc = 0.719,    net1_loss = 3.794, net1_acc = 0.844, net1_test_acc = 0.562
+Epoch:[ 9][  0/337] time:9922.96,net0_loss = 6.195, net0_acc = 0.812, net0_test_acc = 0.719,    net1_loss = 6.509, net1_acc = 0.719, net1_test_acc = 0.844
+Epoch:[10][  0/337] time:11128.18,net0_loss = 3.271, net0_acc = 0.844, net0_test_acc = 0.938,    net1_loss = 3.873, net1_acc = 0.938, net1_test_acc = 0.781
+Epoch:[11][  0/337] time:12357.66,net0_loss = 4.091, net0_acc = 0.812, net0_test_acc = 0.719,    net1_loss = 3.090, net1_acc = 0.875, net1_test_acc = 0.875
+Epoch:[12][  0/337] time:13563.55,net0_loss = 3.388, net0_acc = 0.875, net0_test_acc = 0.844,    net1_loss = 3.625, net1_acc = 0.906, net1_test_acc = 0.812
+Epoch:[13][  0/337] time:14789.74,net0_loss = 3.102, net0_acc = 0.844, net0_test_acc = 0.781,    net1_loss = 2.638, net1_acc = 0.906, net1_test_acc = 0.812
+Epoch:[14][  0/337] time:15996.86,net0_loss = 1.213, net0_acc = 0.969, net0_test_acc = 1.000,    net1_loss = 3.669, net1_acc = 0.844, net1_test_acc = 0.781
+Epoch:[15][  0/337] time:17225.69,net0_loss = 3.464, net0_acc = 0.875, net0_test_acc = 0.844,    net1_loss = 2.297, net1_acc = 0.938, net1_test_acc = 0.844
+Epoch:[16][  0/337] time:18434.23,net0_loss = 0.722, net0_acc = 0.969, net0_test_acc = 0.906,    net1_loss = 2.247, net1_acc = 0.906, net1_test_acc = 0.906
+Epoch:[17][  0/337] time:19663.55,net0_loss = -0.382, net0_acc = 1.000, net0_test_acc = 0.906,    net1_loss = 2.180, net1_acc = 0.875, net1_test_acc = 0.875
+Epoch:[18][  0/337] time:20873.12,net0_loss = 1.631, net0_acc = 0.938, net0_test_acc = 0.906,    net1_loss = 1.127, net1_acc = 0.969, net1_test_acc = 0.969
+Epoch:[19][  0/337] time:22101.99,net0_loss = 0.293, net0_acc = 0.969, net0_test_acc = 0.875,    net1_loss = 1.982, net1_acc = 0.875, net1_test_acc = 0.906
+Epoch:[20][  0/337] time:23310.93,net0_loss = -0.293, net0_acc = 1.000, net0_test_acc = 0.812,    net1_loss = -0.087, net1_acc = 1.000, net1_test_acc = 0.781
+Epoch:[21][  0/337] time:24539.23,net0_loss = 2.701, net0_acc = 0.906, net0_test_acc = 0.844,    net1_loss = -0.198, net1_acc = 1.000, net1_test_acc = 0.875
+Epoch:[22][  0/337] time:25750.38,net0_loss = -0.153, net0_acc = 0.969, net0_test_acc = 0.938,    net1_loss = 2.220, net1_acc = 0.906, net1_test_acc = 0.781
+Epoch:[23][  0/337] time:26978.85,net0_loss = 1.523, net0_acc = 0.938, net0_test_acc = 0.750,    net1_loss = -0.492, net1_acc = 1.000, net1_test_acc = 0.938
+Epoch:[24][  0/337] time:28190.36,net0_loss = -0.431, net0_acc = 1.000, net0_test_acc = 0.812,    net1_loss = 0.567, net1_acc = 0.938, net1_test_acc = 0.688
+Epoch:[25][  0/337] time:29420.08,net0_loss = 0.585, net0_acc = 0.969, net0_test_acc = 0.938,    net1_loss = 0.360, net1_acc = 0.969, net1_test_acc = 0.875
+Epoch:[26][  0/337] time:30632.87,net0_loss = -0.398, net0_acc = 1.000, net0_test_acc = 0.938,    net1_loss = 1.431, net1_acc = 0.938, net1_test_acc = 0.688
+Epoch:[27][  0/337] time:31861.87,net0_loss = 0.591, net0_acc = 0.969, net0_test_acc = 0.938,    net1_loss = -0.464, net1_acc = 1.000, net1_test_acc = 0.938
+Epoch:[28][  0/337] time:33075.96,net0_loss = -0.564, net0_acc = 1.000, net0_test_acc = 0.781,    net1_loss = 0.230, net1_acc = 0.969, net1_test_acc = 0.844
+Epoch:[29][  0/337] time:34305.87,net0_loss = -0.539, net0_acc = 1.000, net0_test_acc = 0.969,    net1_loss = -0.372, net1_acc = 1.000, net1_test_acc = 0.781
+Epoch:[30][  0/337] time:35519.60,net0_loss = -0.273, net0_acc = 1.000, net0_test_acc = 0.750,    net1_loss = -0.494, net1_acc = 1.000, net1_test_acc = 0.906
+Epoch:[31][  0/337] time:36744.92,net0_loss = -0.467, net0_acc = 1.000, net0_test_acc = 0.938,    net1_loss = -0.121, net1_acc = 1.000, net1_test_acc = 0.906
+Epoch:[32][  0/337] time:37956.84,net0_loss = -0.441, net0_acc = 1.000, net0_test_acc = 0.875,    net1_loss = -0.079, net1_acc = 1.000, net1_test_acc = 0.781
+Epoch:[33][  0/337] time:39179.71,net0_loss = -0.554, net0_acc = 1.000, net0_test_acc = 0.844,    net1_loss = -0.291, net1_acc = 1.000, net1_test_acc = 0.969
+Epoch:[34][  0/337] time:40392.09,net0_loss = -0.341, net0_acc = 1.000, net0_test_acc = 0.906,    net1_loss = 0.105, net1_acc = 1.000, net1_test_acc = 0.750
+Epoch:[35][  0/337] time:41613.20,net0_loss = -0.515, net0_acc = 1.000, net0_test_acc = 0.906,    net1_loss = -0.300, net1_acc = 1.000, net1_test_acc = 0.844
+Epoch:[36][  0/337] time:42826.41,net0_loss = -0.575, net0_acc = 1.000, net0_test_acc = 0.812,    net1_loss = -0.513, net1_acc = 1.000, net1_test_acc = 0.844
+Epoch:[37][  0/337] time:44045.85,net0_loss = -0.598, net0_acc = 1.000, net0_test_acc = 0.938,    net1_loss = -0.331, net1_acc = 1.000, net1_test_acc = 0.938
+Epoch:[38][  0/337] time:45257.82,net0_loss = -0.354, net0_acc = 1.000, net0_test_acc = 0.844,    net1_loss = -0.615, net1_acc = 1.000, net1_test_acc = 0.875
+Epoch:[39][  0/337] time:46479.66,net0_loss = -0.574, net0_acc = 1.000, net0_test_acc = 0.969,    net1_loss = -0.544, net1_acc = 1.000, net1_test_acc = 0.938
+Epoch:[40][  0/337] time:47694.22,net0_loss = -0.599, net0_acc = 1.000, net0_test_acc = 0.875,    net1_loss = 0.340, net1_acc = 0.969, net1_test_acc = 0.875
+Epoch:[41][  0/337] time:48917.97,net0_loss = -0.609, net0_acc = 1.000, net0_test_acc = 0.875,    net1_loss = -0.580, net1_acc = 1.000, net1_test_acc = 0.906
+Epoch:[42][  0/337] time:50129.51,net0_loss = 0.748, net0_acc = 0.969, net0_test_acc = 0.875,    net1_loss = -0.101, net1_acc = 0.969, net1_test_acc = 0.906
+Epoch:[43][  0/337] time:51350.54,net0_loss = -0.145, net0_acc = 1.000, net0_test_acc = 0.906,    net1_loss = -0.118, net1_acc = 1.000, net1_test_acc = 0.875
+Epoch:[44][  0/337] time:52566.60,net0_loss = -0.610, net0_acc = 1.000, net0_test_acc = 0.938,    net1_loss = 0.024, net1_acc = 0.969, net1_test_acc = 0.969
+Epoch:[45][  0/337] time:53781.44,net0_loss = 0.437, net0_acc = 0.969, net0_test_acc = 0.906,    net1_loss = -0.580, net1_acc = 1.000, net1_test_acc = 0.844
+Epoch:[46][  0/337] time:54995.59,net0_loss = -0.609, net0_acc = 1.000, net0_test_acc = 0.719,    net1_loss = 0.971, net1_acc = 0.969, net1_test_acc = 0.938
+Epoch:[47][  0/337] time:56209.00,net0_loss = -0.566, net0_acc = 1.000, net0_test_acc = 0.906,    net1_loss = 0.118, net1_acc = 1.000, net1_test_acc = 0.844
+Epoch:[48][  0/337] time:57422.68,net0_loss = -0.525, net0_acc = 1.000, net0_test_acc = 1.000,    net1_loss = -0.420, net1_acc = 1.000, net1_test_acc = 0.938
+Epoch:[49][  0/337] time:58635.34,net0_loss = -0.116, net0_acc = 1.000, net0_test_acc = 0.969,    net1_loss = -0.643, net1_acc = 1.000, net1_test_acc = 0.875
+Epoch:[50][  0/337] time:59847.93,net0_loss = -0.639, net0_acc = 1.000, net0_test_acc = 0.875,    net1_loss = -0.048, net1_acc = 0.969, net1_test_acc = 0.812
+Epoch:[51][  0/337] time:61072.40,net0_loss = -0.614, net0_acc = 1.000, net0_test_acc = 0.875,    net1_loss = -0.650, net1_acc = 1.000, net1_test_acc = 0.781
+Epoch:[52][  0/337] time:62286.51,net0_loss = -0.650, net0_acc = 1.000, net0_test_acc = 0.938,    net1_loss = -0.423, net1_acc = 1.000, net1_test_acc = 0.844
+Epoch:[53][  0/337] time:63508.72,net0_loss = -0.633, net0_acc = 1.000, net0_test_acc = 0.906,    net1_loss = -0.661, net1_acc = 1.000, net1_test_acc = 0.875
+Epoch:[54][  0/337] time:64720.69,net0_loss = -0.646, net0_acc = 1.000, net0_test_acc = 0.875,    net1_loss = -0.620, net1_acc = 1.000, net1_test_acc = 0.812
+Epoch:[55][  0/337] time:65945.73,net0_loss = -0.652, net0_acc = 1.000, net0_test_acc = 0.938,    net1_loss = -0.611, net1_acc = 1.000, net1_test_acc = 0.906
+Epoch:[56][  0/337] time:67155.76,net0_loss = -0.646, net0_acc = 1.000, net0_test_acc = 0.875,    net1_loss = -0.665, net1_acc = 1.000, net1_test_acc = 0.875
+Epoch:[57][  0/337] time:68380.07,net0_loss = -0.669, net0_acc = 1.000, net0_test_acc = 0.938,    net1_loss = -0.666, net1_acc = 1.000, net1_test_acc = 0.906
+Epoch:[58][  0/337] time:69591.60,net0_loss = -0.671, net0_acc = 1.000, net0_test_acc = 1.000,    net1_loss = -0.676, net1_acc = 1.000, net1_test_acc = 0.875
+Epoch:[59][  0/337] time:70827.31,net0_loss = -0.674, net0_acc = 1.000, net0_test_acc = 0.781,    net1_loss = -0.664, net1_acc = 1.000, net1_test_acc = 0.938
+Epoch:[60][  0/337] time:72035.66,net0_loss = -0.672, net0_acc = 1.000, net0_test_acc = 0.906,    net1_loss = -0.646, net1_acc = 1.000, net1_test_acc = 0.938
+Epoch:[61][  0/337] time:73265.19,net0_loss = -0.686, net0_acc = 1.000, net0_test_acc = 0.938,    net1_loss = -0.683, net1_acc = 1.000, net1_test_acc = 0.906
+Epoch:[62][  0/337] time:74475.46,net0_loss = -0.683, net0_acc = 1.000, net0_test_acc = 0.875,    net1_loss = -0.696, net1_acc = 1.000, net1_test_acc = 0.969
+Epoch:[63][  0/337] time:75686.96,net0_loss = -0.684, net0_acc = 1.000, net0_test_acc = 0.969,    net1_loss = -0.539, net1_acc = 1.000, net1_test_acc = 1.000
+Epoch:[64][  0/337] time:76894.48,net0_loss = -0.073, net0_acc = 0.969, net0_test_acc = 0.969,    net1_loss = -0.689, net1_acc = 1.000, net1_test_acc = 0.906
+Epoch:[65][  0/337] time:78128.90,net0_loss = -0.703, net0_acc = 1.000, net0_test_acc = 0.906,    net1_loss = -0.658, net1_acc = 1.000, net1_test_acc = 0.906
+Epoch:[66][  0/337] time:79337.27,net0_loss = -0.700, net0_acc = 1.000, net0_test_acc = 1.000,    net1_loss = -0.704, net1_acc = 1.000, net1_test_acc = 0.938
+Epoch:[67][  0/337] time:80551.03,net0_loss = -0.687, net0_acc = 1.000, net0_test_acc = 0.938,    net1_loss = -0.675, net1_acc = 1.000, net1_test_acc = 1.000
+Epoch:[68][  0/337] time:81759.40,net0_loss = -0.709, net0_acc = 1.000, net0_test_acc = 0.969,    net1_loss = -0.671, net1_acc = 1.000, net1_test_acc = 0.906
+Epoch:[69][  0/337] time:82998.09,net0_loss = -0.711, net0_acc = 1.000, net0_test_acc = 0.938,    net1_loss = -0.699, net1_acc = 1.000, net1_test_acc = 1.000
+Epoch:[70][  0/337] time:84211.22,net0_loss = -0.713, net0_acc = 1.000, net0_test_acc = 1.000,    net1_loss = -0.699, net1_acc = 1.000, net1_test_acc = 0.969
+Epoch:[71][  0/337] time:85442.74,net0_loss = -0.716, net0_acc = 1.000, net0_test_acc = 0.938,    net1_loss = -0.702, net1_acc = 1.000, net1_test_acc = 0.875
+Epoch:[72][  0/337] time:86649.88,net0_loss = -0.690, net0_acc = 1.000, net0_test_acc = 0.938,    net1_loss = -0.703, net1_acc = 1.000, net1_test_acc = 0.969
+Epoch:[73][  0/337] time:87890.84,net0_loss = -0.716, net0_acc = 1.000, net0_test_acc = 0.906,    net1_loss = -0.602, net1_acc = 1.000, net1_test_acc = 1.000
+Epoch:[74][  0/337] time:89097.93,net0_loss = -0.720, net0_acc = 1.000, net0_test_acc = 0.969,    net1_loss = -0.714, net1_acc = 1.000, net1_test_acc = 1.000
+Epoch:[75][  0/337] time:90340.05,net0_loss = -0.714, net0_acc = 1.000, net0_test_acc = 1.000,    net1_loss = -0.720, net1_acc = 1.000, net1_test_acc = 0.969
+Epoch:[76][  0/337] time:91548.84,net0_loss = -0.703, net0_acc = 1.000, net0_test_acc = 0.938,    net1_loss = -0.720, net1_acc = 1.000, net1_test_acc = 0.938
+Epoch:[77][  0/337] time:92794.32,net0_loss = -0.717, net0_acc = 1.000, net0_test_acc = 0.875,    net1_loss = -0.721, net1_acc = 1.000, net1_test_acc = 0.906
+Epoch:[78][  0/337] time:94002.69,net0_loss = -0.715, net0_acc = 1.000, net0_test_acc = 0.938,    net1_loss = -0.725, net1_acc = 1.000, net1_test_acc = 0.938
+Epoch:[79][  0/337] time:95255.94,net0_loss = -0.717, net0_acc = 1.000, net0_test_acc = 0.906,    net1_loss = -0.724, net1_acc = 1.000, net1_test_acc = 0.969
+Epoch:[80][  0/337] time:96469.47,net0_loss = -0.722, net0_acc = 1.000, net0_test_acc = 0.875,    net1_loss = -0.735, net1_acc = 1.000, net1_test_acc = 0.875
+Epoch:[81][  0/337] time:97704.95,net0_loss = -0.720, net0_acc = 1.000, net0_test_acc = 0.938,    net1_loss = -0.738, net1_acc = 1.000, net1_test_acc = 0.938
+Epoch:[82][  0/337] time:98917.52,net0_loss = -0.724, net0_acc = 1.000, net0_test_acc = 0.906,    net1_loss = -0.736, net1_acc = 1.000, net1_test_acc = 0.906
+Epoch:[83][  0/337] time:100139.23,net0_loss = -0.718, net0_acc = 1.000, net0_test_acc = 0.906,    net1_loss = -0.742, net1_acc = 1.000, net1_test_acc = 0.938
+Epoch:[84][  0/337] time:101346.50,net0_loss = -0.728, net0_acc = 1.000, net0_test_acc = 0.844,    net1_loss = -0.742, net1_acc = 1.000, net1_test_acc = 0.938
+Epoch:[85][  0/337] time:102581.35,net0_loss = -0.729, net0_acc = 1.000, net0_test_acc = 1.000,    net1_loss = -0.741, net1_acc = 1.000, net1_test_acc = 1.000
+Epoch:[86][  0/337] time:103789.61,net0_loss = -0.732, net0_acc = 1.000, net0_test_acc = 0.875,    net1_loss = -0.744, net1_acc = 1.000, net1_test_acc = 0.875
+Epoch:[87][  0/337] time:105024.36,net0_loss = -0.734, net0_acc = 1.000, net0_test_acc = 0.969,    net1_loss = -0.742, net1_acc = 1.000, net1_test_acc = 1.000
+Epoch:[88][  0/337] time:106243.93,net0_loss = -0.733, net0_acc = 1.000, net0_test_acc = 0.969,    net1_loss = -0.746, net1_acc = 1.000, net1_test_acc = 0.969
+Epoch:[89][  0/337] time:107472.15,net0_loss = -0.728, net0_acc = 1.000, net0_test_acc = 0.906,    net1_loss = -0.122, net1_acc = 0.969, net1_test_acc = 0.938
+Epoch:[90][  0/337] time:108680.89,net0_loss = -0.734, net0_acc = 1.000, net0_test_acc = 1.000,    net1_loss = -0.740, net1_acc = 1.000, net1_test_acc = 0.906
+Epoch:[91][  0/337] time:109906.84,net0_loss = -0.737, net0_acc = 1.000, net0_test_acc = 0.875,    net1_loss = -0.741, net1_acc = 1.000, net1_test_acc = 0.969
+Epoch:[92][  0/337] time:111115.70,net0_loss = -0.738, net0_acc = 1.000, net0_test_acc = 0.875,    net1_loss = -0.735, net1_acc = 1.000, net1_test_acc = 0.906
+Epoch:[93][  0/337] time:112353.33,net0_loss = -0.736, net0_acc = 1.000, net0_test_acc = 0.875,    net1_loss = -0.736, net1_acc = 1.000, net1_test_acc = 0.938
+Epoch:[94][  0/337] time:113561.56,net0_loss = -0.725, net0_acc = 1.000, net0_test_acc = 0.938,    net1_loss = -0.728, net1_acc = 1.000, net1_test_acc = 0.906
+Epoch:[95][  0/337] time:114792.17,net0_loss = -0.728, net0_acc = 1.000, net0_test_acc = 1.000,    net1_loss = -0.720, net1_acc = 1.000, net1_test_acc = 0.938
