@@ -38,8 +38,7 @@ sh ./script/evaluation_SSL_WCE.sh
 ```
 
 ### Well trained model:
-You could download the trained SSL_WCE (TensorFlow) from [Google Drive](https://drive.google.com/file/d/1j-Q_u0-Xyp2xYjA55d8zsV1mM9DE2DRc/view?usp=sharing) or 
-[Baidu Drive](https://pan.baidu.com/s/1mOAiYFBFTdlW5h7c3f5GWA) (password for download: fas9). Put the model in directory './models'.
+You could download the trained SSL_WCE (TensorFlow) from [Google Drive](https://drive.google.com/file/d/1j-Q_u0-Xyp2xYjA55d8zsV1mM9DE2DRc/view?usp=sharing). Put the model in directory './models'.
 
 ## Results:
 To be updated
