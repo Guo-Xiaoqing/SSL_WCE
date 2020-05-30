@@ -451,12 +451,12 @@ def train():
                 if batch_idx == 0:
                     Accuracy["{0}".format(0)] = 0.
                     Accuracy["{0}".format(1)] = 0.
-                    for test_batch in range(np.int32(450 * 8 / FLAGS.batch_size)):
+                    for test_batch in range(np.int32(FLAGS.testing_dataset_size * 8 / FLAGS.batch_size)):
                         for i in range(FLAGS.num_networks):
                             test_precision_value = sess.run([test_precision["{0}".format(i)]])
                             Accuracy["{0}".format(i)] += np.float32(test_precision_value)
                     for i in range(FLAGS.num_networks):
-                        Accuracy["{0}".format(i)] = Accuracy["{0}".format(i)]/np.float32(450 * 8 / FLAGS.batch_size)
+                        Accuracy["{0}".format(i)] = Accuracy["{0}".format(i)]/np.float32(FLAGS.testing_dataset_size * 8 / FLAGS.batch_size)
                                           
                     format_str = 'Epoch:[%2d][%3d/%3d] time:%4.2f,net0_loss = %.3f, net0_acc = %.3f, net0_test_acc = %.3f,    net1_loss = %.3f, net1_acc = %.3f, net1_test_acc = %.3f'
                     print(format_str % (epoch, batch_idx,batch_count, time.time()-start_time, net_loss_value["{0}".format(0)], precision_value["{0}".format(0)], Accuracy["{0}".format(0)],net_loss_value["{0}".format(1)],precision_value["{0}".format(1)], Accuracy["{0}".format(1)]))
