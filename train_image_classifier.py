@@ -23,7 +23,7 @@ tf.app.flags.DEFINE_string('dataset_dir', './',
 
                            'The directory where the dataset files are stored.')
 
-tf.app.flags.DEFINE_string("tfdata_path", '../tfrecord_cross/',
+tf.app.flags.DEFINE_string("tfdata_path", './tfrecord/',
                            "aug_tfrecord_2kind")
 
 tf.app.flags.DEFINE_string('attention_map', './attention_map/',
