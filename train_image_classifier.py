@@ -70,6 +70,9 @@ tf.app.flags.DEFINE_integer("train_image_size", 128,
 tf.app.flags.DEFINE_integer("dataset_size", 1350,
                      "the number of training data in one epoch")
 
+tf.app.flags.DEFINE_integer("testing_dataset_size", 450,
+                     "the number of testing data in one epoch")
+
 tf.app.flags.DEFINE_integer('max_number_of_epochs', 95,
                             'The maximum number of training steps.')
 
