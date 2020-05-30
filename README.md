@@ -35,6 +35,8 @@ cd SSL_WCE
 sh ./script/train_SSL_WCE.sh
 ```
 
+* In this paper, the backbone of our method is DenseNet. Besides, we also integrate our method on other classification backbones: VGG, ResNet-50 and ResNeXt-50. These models are in the folder "./nets/". Several changes, such as decreasing the number of layers and feature maps, are made to ensure the size of these backbone networks to be similar to that of DenseNet. The hyperparameters utilized to these backbones are written in their corresponding model scripts.
+
 ### Test the model: 
 ```
 sh ./script/evaluation_SSL_WCE.sh
