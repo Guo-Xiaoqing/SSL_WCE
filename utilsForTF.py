@@ -23,13 +23,13 @@ class Data_set(object):
                                                                                   self.actual_image_size)
             #image = channels_image_standardization(image)
             image = image_standardization(image)
-            #image = dataaugmentation(image)
+            image = dataaugmentation(image)
             image_batch, label_batch = tf.train.shuffle_batch([image, label],
                                                               batch_size=self.batch_size,
                                                               capacity=self.capacity,
                                                               num_threads=2,
                                                               min_after_dequeue=self.min_after_dequeue)
-            #image_batch = tf.contrib.image.rotate(image_batch, tf.random_uniform(shape = (tf.shape(image_batch)[0], ), minval=-0.5, maxval=0.5, seed=37), interpolation='BILINEAR')
+            image_batch = tf.contrib.image.rotate(image_batch, tf.random_uniform(shape = (tf.shape(image_batch)[0], ), minval=-0.5, maxval=0.5, seed=37), interpolation='BILINEAR')
 
         else:
             # get filename list
@@ -105,9 +105,9 @@ def image_standardization(image):
     return out_image
 
 def dataaugmentation(images):
-    #images = tf.image.random_flip_up_down(images) 
-    #images = tf.image.random_flip_left_right(images) 
-    images = tf.image.random_brightness(images, max_delta=0.3) 
+    images = tf.image.random_flip_up_down(images) 
+    images = tf.image.random_flip_left_right(images) 
+    #images = tf.image.random_brightness(images, max_delta=0.3) 
     #images = tf.image.random_contrast(images, 0.8, 1.2)
     #images = tf.image.random_saturation(images, 0.7, 1.3)
 
