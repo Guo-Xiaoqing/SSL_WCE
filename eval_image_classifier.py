@@ -59,7 +59,7 @@ tf.app.flags.DEFINE_integer('batch_size', 45,
                             'The number of samples in each batch.')
 
 tf.app.flags.DEFINE_integer("dataset_size", 450,
-                     "the number of training data in one epoch")
+                     "the number of testing data in one epoch")
 
 tf.app.flags.DEFINE_integer("train_image_size", 128,
                      "train_image_size")
