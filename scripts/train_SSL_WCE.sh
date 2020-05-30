@@ -1,5 +1,5 @@
 # Where the TFRecords are saved to.
-DATASET_DIR=../tfrecord_cross/
+DATASET_DIR=./tfrecord/
 
 # Where the checkpoint and logs will be saved to.
 DATASET_NAME=train
