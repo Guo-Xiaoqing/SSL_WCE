@@ -21,7 +21,7 @@ tf.app.flags.DEFINE_string('split_name', 'train',
 tf.app.flags.DEFINE_string('dataset_dir', '../dataset/cifar-100-python/tfrecord/',
                            'The directory where the dataset files are stored.')
 
-tf.app.flags.DEFINE_string("tfdata_path", './tfrecord/',
+tf.app.flags.DEFINE_string("tfdata_path", '../tfrecord_cross/',
                            "aug_tfrecord_2kind")
 
 tf.app.flags.DEFINE_string('attention_map', './result/',
