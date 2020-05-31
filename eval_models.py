@@ -282,7 +282,7 @@ def train():
         ##############################################################
         # Create a dataset provider that loads data from the dataset #
         ##############################################################            
-        test_image_batch, test_label_batch = utils.get_image_label_batch(FLAGS, shuffle=False, name='test4')
+        test_image_batch, test_label_batch = utils.get_image_label_batch(FLAGS, shuffle=False, name='test')
  
         test_label_batch = slim.one_hot_encoding(test_label_batch, FLAGS.num_classes)
             
