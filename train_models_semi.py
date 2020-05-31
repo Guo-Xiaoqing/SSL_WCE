@@ -298,9 +298,9 @@ def train():
         ##############################################################
         # Create a dataset provider that loads data from the dataset #
         ##############################################################            
-        train_image_batch, train_label_batch = utils.get_image_label_batch(FLAGS, shuffle=True, name='train4')
+        train_image_batch, train_label_batch = utils.get_image_label_batch(FLAGS, shuffle=True, name='train')
         semi_image_batch, semi_label_batch = utils.get_image_label_batch(FLAGS, shuffle=True, name='semi')
-        test_image_batch, test_label_batch = utils.get_image_label_batch(FLAGS, shuffle=False, name='test4')
+        test_image_batch, test_label_batch = utils.get_image_label_batch(FLAGS, shuffle=False, name='test')
  
         train_label_batch = slim.one_hot_encoding(train_label_batch, FLAGS.num_classes)
         semi_label_batch = slim.one_hot_encoding(semi_label_batch, FLAGS.num_classes)
