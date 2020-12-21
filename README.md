@@ -51,7 +51,14 @@ You could download the trained SSL_WCE model from [Google Drive](https://drive.g
 * Log files recorded with tensorflow 1.4 and 1.8 are listed in [Logs](https://github.com/Guo-Xiaoqing/SSL_WCE/tree/master/models/logs/), which report the running time, loss and accuracy of a mini-batch during training phase.
 
 ## Citation:
-To be updated
+@article{guo2020semi,
+  title={Semi-supervised WCE Image Classification with Adaptive Aggregated Attention},
+  author={Guo, Xiaoqing and Yuan, Yixuan},
+  journal={Medical Image Analysis},
+  pages={101733},
+  year={2020},
+  publisher={Elsevier}
+}
 
 ## Questions:
 Please contact "xiaoqingguo1128@gmail.com" 
